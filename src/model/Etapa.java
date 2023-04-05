@@ -1,0 +1,7 @@
+package model;
+
+public enum Etapa {
+
+    INICIO,ANALISIS,DISENO,EJECUCION,CIERRE,SEGUIMIENTO_CONTROL,PROYECTO_TERMINADO;
+    
+}
